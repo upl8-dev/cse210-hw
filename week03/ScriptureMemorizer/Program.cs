@@ -1,3 +1,5 @@
+// Added functionality in Scripture.cs to only hide words that are still visible to the user, thus preventing the user from hitting Enter more times than necessary.
+
 using System;
 
 class Program
